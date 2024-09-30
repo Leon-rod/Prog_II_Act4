@@ -17,7 +17,8 @@ namespace Act_4_2_7.Implementations
         }
         public async Task<bool> Save(TTurno turno)
         {
-            if (Convert.ToDateTime(turno.Fecha) >= DateTime.Now.AddDays(1) && Convert.ToDateTime(turno.Fecha) < DateTime.Now.AddDays(45) {
+            if (Convert.ToDateTime(turno.Fecha) >= DateTime.Now.AddDays(1) && Convert.ToDateTime(turno.Fecha) < DateTime.Now.AddDays(45)) 
+            {
                 List<TDetallesTurno> detalles = _context.TDetallesTurnos.ToList();
                 if (detalles.Count > 0)
                 {

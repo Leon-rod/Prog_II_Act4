@@ -3,19 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_04\\Act_4_2_7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{323FE8CC-FACB-4886-8222-1FBCEFF0F44D}|Act_4_2_7.csproj|c:\\users\\leo\\desktop\\utn\\2do cuatrimestre\\programacion_ii\\practica_04\\act_4_2_7\\implementations\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{323FE8CC-FACB-4886-8222-1FBCEFF0F44D}|Act_4_2_7.csproj|solutionrelative:implementations\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{323FE8CC-FACB-4886-8222-1FBCEFF0F44D}|Act_4_2_7.csproj|c:\\users\\leo\\desktop\\utn\\2do cuatrimestre\\programacion_ii\\practica_04\\act_4_2_7\\implementations\\turnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{323FE8CC-FACB-4886-8222-1FBCEFF0F44D}|Act_4_2_7.csproj|solutionrelative:implementations\\turnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{323FE8CC-FACB-4886-8222-1FBCEFF0F44D}|Act_4_2_7.csproj|c:\\users\\leo\\desktop\\utn\\2do cuatrimestre\\programacion_ii\\practica_04\\act_4_2_7\\implementations\\serviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{323FE8CC-FACB-4886-8222-1FBCEFF0F44D}|Act_4_2_7.csproj|solutionrelative:implementations\\serviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD82C2CF-EF90-4D95-AB84-4166FFD5B051}|..\\Controllers_Act_4_2_7\\Controllers_Act_4_2_7.csproj|c:\\users\\leo\\desktop\\utn\\2do cuatrimestre\\programacion_ii\\practica_04\\controllers_act_4_2_7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD82C2CF-EF90-4D95-AB84-4166FFD5B051}|..\\Controllers_Act_4_2_7\\Controllers_Act_4_2_7.csproj|c:\\users\\leo\\desktop\\utn\\2do cuatrimestre\\programacion_ii\\practica_04\\controllers_act_4_2_7\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{323FE8CC-FACB-4886-8222-1FBCEFF0F44D}|Act_4_2_7.csproj|c:\\users\\leo\\desktop\\utn\\2do cuatrimestre\\programacion_ii\\practica_04\\act_4_2_7\\implementations\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{323FE8CC-FACB-4886-8222-1FBCEFF0F44D}|Act_4_2_7.csproj|solutionrelative:implementations\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{323FE8CC-FACB-4886-8222-1FBCEFF0F44D}|Act_4_2_7.csproj|c:\\users\\leo\\desktop\\utn\\2do cuatrimestre\\programacion_ii\\practica_04\\act_4_2_7\\models\\dbturnoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{323FE8CC-FACB-4886-8222-1FBCEFF0F44D}|Act_4_2_7.csproj|solutionrelative:models\\dbturnoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{323FE8CC-FACB-4886-8222-1FBCEFF0F44D}|Act_4_2_7.csproj|c:\\users\\leo\\desktop\\utn\\2do cuatrimestre\\programacion_ii\\practica_04\\act_4_2_7\\models\\tservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{323FE8CC-FACB-4886-8222-1FBCEFF0F44D}|Act_4_2_7.csproj|solutionrelative:models\\tservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{323FE8CC-FACB-4886-8222-1FBCEFF0F44D}|Act_4_2_7.csproj|c:\\users\\leo\\desktop\\utn\\2do cuatrimestre\\programacion_ii\\practica_04\\act_4_2_7\\implementations\\serviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{323FE8CC-FACB-4886-8222-1FBCEFF0F44D}|Act_4_2_7.csproj|solutionrelative:implementations\\serviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{323FE8CC-FACB-4886-8222-1FBCEFF0F44D}|Act_4_2_7.csproj|c:\\users\\leo\\desktop\\utn\\2do cuatrimestre\\programacion_ii\\practica_04\\act_4_2_7\\contracts\\iserviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -24,13 +35,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{323FE8CC-FACB-4886-8222-1FBCEFF0F44D}|Act_4_2_7.csproj|c:\\users\\leo\\desktop\\utn\\2do cuatrimestre\\programacion_ii\\practica_04\\act_4_2_7\\contracts\\iservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{323FE8CC-FACB-4886-8222-1FBCEFF0F44D}|Act_4_2_7.csproj|solutionrelative:contracts\\iservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{323FE8CC-FACB-4886-8222-1FBCEFF0F44D}|Act_4_2_7.csproj|c:\\users\\leo\\desktop\\utn\\2do cuatrimestre\\programacion_ii\\practica_04\\act_4_2_7\\models\\dbturnoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{323FE8CC-FACB-4886-8222-1FBCEFF0F44D}|Act_4_2_7.csproj|solutionrelative:models\\dbturnoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD82C2CF-EF90-4D95-AB84-4166FFD5B051}|..\\Controllers_Act_4_2_7\\Controllers_Act_4_2_7.csproj|c:\\users\\leo\\desktop\\utn\\2do cuatrimestre\\programacion_ii\\practica_04\\controllers_act_4_2_7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,15 +44,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TurnoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_04\\Act_4_2_7\\Implementations\\TurnoRepository.cs",
+              "RelativeDocumentMoniker": "Implementations\\TurnoRepository.cs",
+              "ToolTip": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_04\\Act_4_2_7\\Implementations\\TurnoRepository.cs",
+              "RelativeToolTip": "Implementations\\TurnoRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABMAAACJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T22:29:08.638Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "TServicio.cs",
               "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_04\\Act_4_2_7\\Models\\TServicio.cs",
               "RelativeDocumentMoniker": "Models\\TServicio.cs",
@@ -60,15 +77,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_04\\Controllers_Act_4_2_7\\Program.cs",
               "RelativeDocumentMoniker": "..\\Controllers_Act_4_2_7\\Program.cs",
               "ToolTip": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_04\\Controllers_Act_4_2_7\\Program.cs",
               "RelativeToolTip": "..\\Controllers_Act_4_2_7\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T23:07:58.506Z"
+              "WhenOpened": "2024-09-29T23:07:58.506Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -78,13 +96,13 @@
               "RelativeDocumentMoniker": "..\\Controllers_Act_4_2_7\\Controllers\\ServiceController.cs",
               "ToolTip": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_04\\Controllers_Act_4_2_7\\Controllers\\ServiceController.cs",
               "RelativeToolTip": "..\\Controllers_Act_4_2_7\\Controllers\\ServiceController.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAkwDcAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-29T23:00:09.98Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "ServiceService.cs",
               "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_04\\Act_4_2_7\\Implementations\\ServiceService.cs",
               "RelativeDocumentMoniker": "Implementations\\ServiceService.cs",
@@ -96,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "IServiceService.cs",
               "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_04\\Act_4_2_7\\Contracts\\IServiceService.cs",
               "RelativeDocumentMoniker": "Contracts\\IServiceService.cs",
@@ -108,20 +126,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ServiceRepository.cs",
               "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_04\\Act_4_2_7\\Implementations\\ServiceRepository.cs",
               "RelativeDocumentMoniker": "Implementations\\ServiceRepository.cs",
               "ToolTip": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_04\\Act_4_2_7\\Implementations\\ServiceRepository.cs",
               "RelativeToolTip": "Implementations\\ServiceRepository.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T22:38:33.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T22:38:33.22Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "IServiceRepository.cs",
               "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_04\\Act_4_2_7\\Contracts\\IServiceRepository.cs",
               "RelativeDocumentMoniker": "Contracts\\IServiceRepository.cs",
@@ -133,13 +150,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "DBTurnosContext.cs",
               "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_04\\Act_4_2_7\\Models\\DBTurnosContext.cs",
               "RelativeDocumentMoniker": "Models\\DBTurnosContext.cs",
               "ToolTip": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_04\\Act_4_2_7\\Models\\DBTurnosContext.cs",
               "RelativeToolTip": "Models\\DBTurnosContext.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAowDQAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAA5wCMAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-29T22:25:43.165Z"
             }
