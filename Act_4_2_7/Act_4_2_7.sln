@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Act_4_2_7", "Act_4_2_7.csproj", "{323FE8CC-FACB-4886-8222-1FBCEFF0F44D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controllers_Act_4_2_7", "..\Controllers_Act_4_2_7\Controllers_Act_4_2_7.csproj", "{AD82C2CF-EF90-4D95-AB84-4166FFD5B051}"
+	ProjectSection(ProjectDependencies) = postProject
+		{323FE8CC-FACB-4886-8222-1FBCEFF0F44D} = {323FE8CC-FACB-4886-8222-1FBCEFF0F44D}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{323FE8CC-FACB-4886-8222-1FBCEFF0F44D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{323FE8CC-FACB-4886-8222-1FBCEFF0F44D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{323FE8CC-FACB-4886-8222-1FBCEFF0F44D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{323FE8CC-FACB-4886-8222-1FBCEFF0F44D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD82C2CF-EF90-4D95-AB84-4166FFD5B051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD82C2CF-EF90-4D95-AB84-4166FFD5B051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD82C2CF-EF90-4D95-AB84-4166FFD5B051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD82C2CF-EF90-4D95-AB84-4166FFD5B051}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E038CAD-5E53-45D2-B655-6C0380D29998}
+	EndGlobalSection
+EndGlobal

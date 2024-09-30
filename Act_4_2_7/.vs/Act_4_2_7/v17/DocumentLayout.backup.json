@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_04\\Act_4_2_7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{323FE8CC-FACB-4886-8222-1FBCEFF0F44D}|Act_4_2_7.csproj|c:\\users\\leo\\desktop\\utn\\2do cuatrimestre\\programacion_ii\\practica_04\\act_4_2_7\\implementations\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{323FE8CC-FACB-4886-8222-1FBCEFF0F44D}|Act_4_2_7.csproj|solutionrelative:implementations\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{323FE8CC-FACB-4886-8222-1FBCEFF0F44D}|Act_4_2_7.csproj|c:\\users\\leo\\desktop\\utn\\2do cuatrimestre\\programacion_ii\\practica_04\\act_4_2_7\\implementations\\serviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{323FE8CC-FACB-4886-8222-1FBCEFF0F44D}|Act_4_2_7.csproj|solutionrelative:implementations\\serviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD82C2CF-EF90-4D95-AB84-4166FFD5B051}|..\\Controllers_Act_4_2_7\\Controllers_Act_4_2_7.csproj|c:\\users\\leo\\desktop\\utn\\2do cuatrimestre\\programacion_ii\\practica_04\\controllers_act_4_2_7\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{323FE8CC-FACB-4886-8222-1FBCEFF0F44D}|Act_4_2_7.csproj|c:\\users\\leo\\desktop\\utn\\2do cuatrimestre\\programacion_ii\\practica_04\\act_4_2_7\\models\\tservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{323FE8CC-FACB-4886-8222-1FBCEFF0F44D}|Act_4_2_7.csproj|solutionrelative:models\\tservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{323FE8CC-FACB-4886-8222-1FBCEFF0F44D}|Act_4_2_7.csproj|c:\\users\\leo\\desktop\\utn\\2do cuatrimestre\\programacion_ii\\practica_04\\act_4_2_7\\contracts\\iserviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{323FE8CC-FACB-4886-8222-1FBCEFF0F44D}|Act_4_2_7.csproj|solutionrelative:contracts\\iserviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{323FE8CC-FACB-4886-8222-1FBCEFF0F44D}|Act_4_2_7.csproj|c:\\users\\leo\\desktop\\utn\\2do cuatrimestre\\programacion_ii\\practica_04\\act_4_2_7\\contracts\\iservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{323FE8CC-FACB-4886-8222-1FBCEFF0F44D}|Act_4_2_7.csproj|solutionrelative:contracts\\iservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{323FE8CC-FACB-4886-8222-1FBCEFF0F44D}|Act_4_2_7.csproj|c:\\users\\leo\\desktop\\utn\\2do cuatrimestre\\programacion_ii\\practica_04\\act_4_2_7\\models\\dbturnoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{323FE8CC-FACB-4886-8222-1FBCEFF0F44D}|Act_4_2_7.csproj|solutionrelative:models\\dbturnoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD82C2CF-EF90-4D95-AB84-4166FFD5B051}|..\\Controllers_Act_4_2_7\\Controllers_Act_4_2_7.csproj|c:\\users\\leo\\desktop\\utn\\2do cuatrimestre\\programacion_ii\\practica_04\\controllers_act_4_2_7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_04\\Act_4_2_7\\Models\\TServicio.cs",
+              "RelativeDocumentMoniker": "Models\\TServicio.cs",
+              "ToolTip": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_04\\Act_4_2_7\\Models\\TServicio.cs",
+              "RelativeToolTip": "Models\\TServicio.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:39:57.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_04\\Controllers_Act_4_2_7\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Controllers_Act_4_2_7\\Program.cs",
+              "ToolTip": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_04\\Controllers_Act_4_2_7\\Program.cs",
+              "RelativeToolTip": "..\\Controllers_Act_4_2_7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T23:07:58.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_04\\Controllers_Act_4_2_7\\Controllers\\ServiceController.cs",
+              "RelativeDocumentMoniker": "..\\Controllers_Act_4_2_7\\Controllers\\ServiceController.cs",
+              "ToolTip": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_04\\Controllers_Act_4_2_7\\Controllers\\ServiceController.cs",
+              "RelativeToolTip": "..\\Controllers_Act_4_2_7\\Controllers\\ServiceController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwDcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T23:00:09.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceService.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_04\\Act_4_2_7\\Implementations\\ServiceService.cs",
+              "RelativeDocumentMoniker": "Implementations\\ServiceService.cs",
+              "ToolTip": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_04\\Act_4_2_7\\Implementations\\ServiceService.cs",
+              "RelativeToolTip": "Implementations\\ServiceService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAArwBQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T22:54:07.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IServiceService.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_04\\Act_4_2_7\\Contracts\\IServiceService.cs",
+              "RelativeDocumentMoniker": "Contracts\\IServiceService.cs",
+              "ToolTip": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_04\\Act_4_2_7\\Contracts\\IServiceService.cs",
+              "RelativeToolTip": "Contracts\\IServiceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T22:53:07.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_04\\Act_4_2_7\\Implementations\\ServiceRepository.cs",
+              "RelativeDocumentMoniker": "Implementations\\ServiceRepository.cs",
+              "ToolTip": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_04\\Act_4_2_7\\Implementations\\ServiceRepository.cs",
+              "RelativeToolTip": "Implementations\\ServiceRepository.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T22:38:33.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IServiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_04\\Act_4_2_7\\Contracts\\IServiceRepository.cs",
+              "RelativeDocumentMoniker": "Contracts\\IServiceRepository.cs",
+              "ToolTip": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_04\\Act_4_2_7\\Contracts\\IServiceRepository.cs",
+              "RelativeToolTip": "Contracts\\IServiceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T22:29:21.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DBTurnosContext.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_04\\Act_4_2_7\\Models\\DBTurnosContext.cs",
+              "RelativeDocumentMoniker": "Models\\DBTurnosContext.cs",
+              "ToolTip": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_04\\Act_4_2_7\\Models\\DBTurnosContext.cs",
+              "RelativeToolTip": "Models\\DBTurnosContext.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowDQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T22:25:43.165Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
